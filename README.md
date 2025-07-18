@@ -1,25 +1,37 @@
-# 🔊 Peter Alert
+# 🛠️ Pala Alert
 
-Aplicación de alerta con Tkinter que muestra una imagen giratoria y reproduce música en bucle.
+A fun alert app built with Tkinter that shows a rotating shovel image and plays music in a loop. Press the button to stop the music and close the window.
 
-Al presionar el botón, se detiene la música y se cierra la ventana.
+## ✨ Features
 
+- 🖼️ Rotating image animation (shovel).
+- 🔊 Plays an MP3 file in a loop.
+- 🖱️ Button to stop music and close the app.
+- Simple and portable Python code.
 
-## 🛠️ Requisitos
+## ⚡ Requirements
 
-- `tkinter`
-- `Pillow` (`PIL`)
-- `pygame`
+- Python 3.x
+- [Pillow](https://pypi.org/project/Pillow/) (`pip install pillow`)
+- [pygame](https://pypi.org/project/pygame/) (`pip install pygame`)
+- `pala.png` (image file) in the same folder as the script.
+- `cancion.mp3` (music file) in the same folder as the script.
 
-Asegúrate de tener los archivos `pala.png` y `cancion.mp3` en el mismo directorio que el script principal.
+## 🚀 Usage
 
-## 🎯 Funcionalidad
+Run the app:
 
-- Ventana emergente con animación
-- Reproducción continua de música
-- Botón de cierre que detiene el sonido y cierra la app
+```sh
+python palaAlert.py
+```
 
----
+## 🖼️ Screenshot
 
-Una mezcla entre alerta surrealista y expresión multimedia 🔥  
-Desarrollado con estilo por **Alexis Zapia**.
+![Pala Alert Screenshot](screenshot.png)
+
+*(Replace `screenshot.png` with your actual screenshot file)*
+
+## 👤 Author
+
+Created by Alexis Zapia.
+
