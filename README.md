@@ -25,11 +25,6 @@ Run the app:
 python palaAlert.py
 ```
 
-## 🖼️ Screenshot
-
-![Pala Alert Screenshot](screenshot.png)
-
-*(Replace `screenshot.png` with your actual screenshot file)*
 
 ## 👤 Author
 
